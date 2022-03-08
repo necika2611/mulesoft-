@@ -8,7 +8,7 @@ import java.sql.Connection;
             Connection conn = null;  
             try {  
                 // db parameters  
-                String url = "jdbc:sqlite:C:/sqlite/JTP.db";  
+                String url = "jdbc:sqlite:C:/sqlite/SSSIT.db";  
                 // create a connection to the database  
                 conn = DriverManager.getConnection(url);  
                   
